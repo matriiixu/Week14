@@ -8,10 +8,10 @@
     </feature>
     <name>week14app</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        This is week's 14 application having a to do list
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="oani1_16@uni.worc.ac.uk" href="https://source.worcestercomputing.com">
+        Iulian Oana
     </author>
     <content src="index.html" />
     <access origin="*" />
