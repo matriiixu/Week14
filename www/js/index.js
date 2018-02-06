@@ -38,6 +38,7 @@ $(document).on("click","#addTaskButton", onAddTask);
 
             function saved(savedTask) {
                 console.log( "new Contact instance has been saved" + savedTask);
+            location.reload();
             }
             
         }else{
