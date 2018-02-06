@@ -6,7 +6,7 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>week14app</name>
+    <name>To Do</name>
     <description>
         This is week's 14 application having a to do list
     </description>
