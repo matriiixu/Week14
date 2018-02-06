@@ -1,26 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
-    <feature name="Camera">
-        <param name="browser-package" value="Camera" />
-    </feature>
-    <feature name="Device">
-        <param name="browser-package" value="Device" />
-    </feature>
+<widget id="mob.app.dev.todo" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>To Do</name>
     <description>
-        This is week's 14 application having a to do list
+        A simple to do app
     </description>
-    <author email="oani1_16@uni.worc.ac.uk" href="https://source.worcestercomputing.com">
-        Iulian Oana
+    <author email="oani1_16@uni.worc.ac.uk" href="source.worcestercomputing.com">
+        WBS Computing
     </author>
-    <content src="index.html" />
     <access origin="*" />
-    <allow-intent href="http://*/*" />
-    <allow-intent href="https://*/*" />
-    <allow-intent href="tel:*" />
-    <allow-intent href="sms:*" />
-    <allow-intent href="mailto:*" />
-    <allow-intent href="geo:*" />
-    <preference name="DisallowOverscroll" value="true" />
-    <preference name="android-minSdkVersion" value="14" />
+    <preference name="phonegap-version" value="cli-7.0.1" />
+    <preference name="permissions" value="none" />
 </widget>
